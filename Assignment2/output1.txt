@@ -1,0 +1,42 @@
+
+GAUSS ELIMINATION WITHOUT PIVOTING
+
+ x: [1.5 2.  0.5]
+GAUSS WITH PIVOTING
+
+x: [1.5, 2.0, 0.5]
+CROUT
+
+x: [1.5 2.  0.5]
+Lower Triangular
+
+Lower Triangular
+[[4.         0.         0.        ]
+ [2.         3.         0.        ]
+ [0.         1.         4.66666667]]
+Upper Triangular
+[[1.         0.5        0.        ]
+ [0.         1.         0.33333333]
+ [0.         0.         1.        ]]
+DOOLITTLE
+
+x: [1.5 2.  0.5]
+Lower Triangular
+[[1.         0.         0.        ]
+ [0.5        1.         0.        ]
+ [0.         0.33333333 1.        ]]
+Upper Triangular
+[[4.         2.         0.        ]
+ [0.         3.         1.        ]
+ [0.         0.         4.66666667]]
+CHOLESKY
+
+x: [1.5 2.  0.5]
+Lower Triangular
+[[2.         0.         0.        ]
+ [1.         1.73205081 0.        ]
+ [0.         0.57735027 2.1602469 ]]
+Upper Triangular
+[[2.         1.         0.        ]
+ [0.         1.73205081 0.57735027]
+ [0.         0.         2.1602469 ]]
