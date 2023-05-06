@@ -1,0 +1,10 @@
+
+ROMBERG
+Integral Value: 0.6321208750083235
+No. of Intervals: 4
+Relative Error: 0.0021040773583884684
+
+GAUSS QUADRATURE
+Integral Value: 0.6321205584853382
+No. of Gauss points: 4
+Relative Error: -4.790561963657913e-05
